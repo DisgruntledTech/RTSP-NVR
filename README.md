@@ -58,13 +58,6 @@ This lets you validate your RTSP and RTP handling before integrating with your a
 
 ---
 
-### 🧰 Optional: Add UI or CLI Controls
 
-Once the backend works, you can add:
-- A WinForms or WPF interface for camera control
-- CLI flags for stream URL, output path, resolution, etc.
 
----
-
-Would you like a skeleton C# class to start building the RTSP client? Or a breakdown of RTP packet structure for decoding?
 
