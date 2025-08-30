@@ -1,4 +1,4 @@
-If you're starting from scratch and want to write your own software to record video from a network camera using RTSP, here’s how to approach it methodically:
+The sole purpose of this application is to record the camera feed of a network camera that supports RTSP.  
 
 ---
 
@@ -67,3 +67,4 @@ Once the backend works, you can add:
 ---
 
 Would you like a skeleton C# class to start building the RTSP client? Or a breakdown of RTP packet structure for decoding?
+
